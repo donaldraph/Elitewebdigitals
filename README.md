@@ -28,11 +28,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Small crew. Big vision. First Claude AI  community gathering in Nigeria 🚀 #aicommunity #ClaudeAI](https://www.youtube.com/shorts/HHNKM_mO_Ok)
 - [#SKALE SUMMER SPLASH](https://www.youtube.com/watch?v=LbwwA3DiHno)
 - [Scaling to the Top: The @SKALE at #OuterEdge](https://www.youtube.com/watch?v=saH5scOMBSw)
+- [Getting Started with coding.](https://www.youtube.com/shorts/gsU96OEH9So)
 - [Git and Vs code setup- Work directly from Vs code.](https://www.youtube.com/watch?v=nCSjUBV3FaE)
-- [Learn the right way](https://www.youtube.com/watch?v=jI7TJlFux1M)
-- [How to Install and Configure Ubuntu in VirtualBox video 2022 08 15 02 19 32](https://www.youtube.com/watch?v=u1CqOQE3zco)
 <!-- YOUTUBE:END -->
 
 
